@@ -1,0 +1,19 @@
+# CMake build output
+build/
+out/
+
+# Editor/IDE folders
+.vscode/
+.vs/
+.idea/
+
+# Compiled files
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# OS junk
+.DS_Store
+Thumbs.db
